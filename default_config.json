@@ -1,0 +1,6 @@
+{
+    "graphic_config.vsync": true,
+    "graphic_config.max_framerate": 60,
+    "projects": [],
+    "max_history_length": 100
+}
